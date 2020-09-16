@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+li(#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
 #  pole_obwód_prostokąt.py
